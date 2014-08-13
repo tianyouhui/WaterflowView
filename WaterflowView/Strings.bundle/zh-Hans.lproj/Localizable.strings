@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WaterflowDemo
+
+  Created by Youhui Tian on 1/9/13.
+  Copyright (c) 2013 Youhui Tian. All rights reserved.
+*/
+
+"loading" = "加载中…";
+"no_any_more" = "没有更多了!";
+"pull_up_load_more" = "上拉加载更多…";
